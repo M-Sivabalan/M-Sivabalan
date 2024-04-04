@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react,vite,verceal,java,python**
 
-- 📫 How to reach me **kit.cbe.21bcb305@gmail.ocm**
+- 📫 How to reach me **kit.cbe.21bcb305@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
