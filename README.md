@@ -1,4 +1,5 @@
 A passionate full stack developer..
+
 🔭 I’m currently working my project
 
 🌱 I’m currently learning vite frameworks
@@ -11,4 +12,9 @@ A passionate full stack developer..
 
 Connect with me:https://www.linkedin.com/in/sivabalan-m-8964b0278/
 Languages and Tools:
-Html Reactjs Nodejs Tailwindcss Vite Vercel
+<i class="programming lang-ruby"></i>
+<i class="programming lang-javascript"></i>
+<i class="programming lang-cpp"></i>
+<i class="programming lang-typescript"></i>
+<i class="programming lang-python"></i>
+<i class="programming lang-kotlyn"></i>
